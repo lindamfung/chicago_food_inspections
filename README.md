@@ -1,4 +1,4 @@
-# Food Inspections
+# Chicago Food Inspections
 ## Data Engineering Final Project: Putting It All Together
 
 ### Objectives
