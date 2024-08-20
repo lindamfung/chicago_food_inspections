@@ -1,4 +1,4 @@
-/***********************************************
+/*********************************************** 
 ** File: food_inspections_query.sql
 ** Desc: Final Project
 ** Author: Linda Fung
